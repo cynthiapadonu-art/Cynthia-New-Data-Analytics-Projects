@@ -1,2 +1,3 @@
-# Data_Analytics_ARU
-This repo is to be cloned by ARU Students
+# vedema.github.io
+
+Week 0 setup completed by Vivian Edema
