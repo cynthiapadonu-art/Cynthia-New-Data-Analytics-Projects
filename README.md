@@ -1,3 +1,3 @@
-# vedema.github.io
+# https://github.com/cynthiapadonu-art/Cynthia-New-Data-Analytics-Projects
 
-Week 0 setup completed by Vivian Edema
+This is my data analytics portfolio of projects.
